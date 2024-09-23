@@ -1,1 +1,0 @@
-I used chatgpt to get more info about RSA algorithms. Using the hint I got to know about Chinese Remainder Theorem and installed sympy library. And i used this sympy library to get Key value through CRT. 
