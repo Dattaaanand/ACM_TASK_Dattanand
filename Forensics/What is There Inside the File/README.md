@@ -7,4 +7,4 @@
 - The password obtained was 'softball3'.
 - Then the extracted file "Unopenable og.pdf" was obtained whose contents could not be read directly.
 - So I used evince pdf viewer and got the base64 code as "Rm9yZW5zaWNzIGlzIGZ1bg==".
-- I decoded this base64 code using cyberchef and terminal and got the final tetxt as "Forensics is fun".
+- I decoded this base64 code using cyberchef and terminal and got the final text as "Forensics is fun".
