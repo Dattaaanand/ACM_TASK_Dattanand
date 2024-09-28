@@ -1,7 +1,10 @@
 # Trybreakingme.zip Broken
+### So previously, I had done this task using John the ripper and one of my friends told that I had to use a python script to open it so I made the changes.
 
-- The zip file was cracked using John the ripper in MX linux from which, a hash.txt file was created from the zip file using zip2john. 
-- The password obtained for this Trybreakingme zip file was softball3.
-- When this was extracted using 7zip, Unopenablel og.pdf was obtained whose contents could not be viewed.
-- Evince pdf viewer was used to view the contents of pdf and the cipher text inside it was Rm9yZW5zaWNzlGlzlGZ1bg== which was in Base64 format.
-- Using CyberChef the code was decoded and the final content was "Forensics is fun".
+- I went to google and searched for a wordlist of passwords, an took a file from a github repository.
+- Then I found a python script that could check all the passwords from wordlist and extract Trybreakingme.zip.
+- So I created a python virtual environment from where I could install pyzipper, and run zipopen.py script to crack the password.
+- The password obtained was 'softball3'.
+- Then the extracted file "Unopenable og.pdf" was obtained whose contents could not be read directly.
+- So I used evince pdf viewer and got the base64 code as "Rm9yZW5zaWNzIGlzIGZ1bg==".
+- I decoded this base64 code using cyberchef and terminal and got the final tetxt as "Forensics is fun".
