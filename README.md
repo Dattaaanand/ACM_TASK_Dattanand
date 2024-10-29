@@ -1,4 +1,4 @@
-# ACM Cyber Security recruitmeent tasks I have completed.
+# ACM Cyber Security recruitment tasks I have completed.
 
 ## About Me!
 
