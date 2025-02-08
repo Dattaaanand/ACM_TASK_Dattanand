@@ -24,4 +24,4 @@ I can give my level best efforts to contribute to the club by actively participa
 Once I have enough knowledge I can share my knowledge to help fellow members and give guidance.
 
 
-I look forward to the opportunity to contribute to the club and improve my cybersecurity skills!
+I look forward to the opportunity to contribute to the club and improve my cybersecurity skills!!
